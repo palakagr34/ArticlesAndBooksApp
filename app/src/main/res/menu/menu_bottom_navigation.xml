@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_books"
+        android:enabled="true"
+        android:icon="@drawable/books"
+        android:title="@string/Books"
+        />
+
+    <item
+        android:id="@+id/nav_articles"
+        android:enabled="true"
+        android:icon="@drawable/articles"
+        android:title="@string/Articles"
+         />
+</menu>
